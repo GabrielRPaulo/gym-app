@@ -1,5 +1,5 @@
 {
-  "name": "royalsistem",
+  "name": "gym-app",
   "version": "1.0.0",
   "description": "- Cadastrar usuários. (Criação do perfiel e carteira)\r - Carteira de créditos. (Adição e Subtração) -> Com data e hora da transação.\r - Mesas como entidade (9 slots).\r - Alocar pessoa em uma mesa.\r - Possível saber quais dias usuário foi.\r - Cadastrar novas mesas.\r - Cadastrar outra unidade.",
   "main": "index.js",
